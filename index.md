@@ -10,7 +10,7 @@ Author: Michèle Côme
 
 # L'humour, un serieux outil de management !
 
-Essayez la "CORPORATE COMEDY !" C'est efficace et vos équipes adorent !
+Essayez la "CORPORATE COMEDY !" C'est efficace et vos équipes vont adorer !
 
 * Interventions en public - Cohésion d’équipes - Formation  
 * Ateliers de co-développement - Théâtre forum  
