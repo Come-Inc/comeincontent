@@ -12,10 +12,10 @@ Author: Michèle Côme
 
 Essayez la "CORPORATE COMEDY !" C'est efficace et vos équipes adorent !
 
-Interventions en public - Cohésion d’équipes - Formation  
-Ateliers de co-développement - Théâtre forum  
-Atelier d’écriture, de narration, d’expression orale  
-Vidéos, web series - Tumblr d’entreprises
+* Interventions en public - Cohésion d’équipes - Formation  
+* Ateliers de co-développement - Théâtre forum  
+* Atelier d’écriture, de narration, d’expression orale  
+* Vidéos, web series - Tumblr d’entreprises
 
 En savoir plus sur [nos ateliers](ateliers)
 
