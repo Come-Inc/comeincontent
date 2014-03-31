@@ -16,6 +16,7 @@ Essayez la "CORPORATE COMEDY !" C'est efficace et vos équipes adorent !
 * Ateliers de co-développement - Théâtre forum  
 * Atelier d’écriture, de narration, d’expression orale  
 * Vidéos, web series - Tumblr d’entreprises
+* À supprimer
 
 En savoir plus sur [nos ateliers](ateliers)
 
