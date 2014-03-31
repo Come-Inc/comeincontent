@@ -6,7 +6,7 @@ Author: Michèle Côme
 
 # Télécharger la présentation de COME INC
 
-[Message important, Rire est urgent !](content/pdf/Presentation_de_Come_Inc_F.pdf)
+[Message important : Rire est urgent !](content/pdf/Presentation_de_Come_Inc_F.pdf)
 
 # L'humour, un serieux outil de management !
 
