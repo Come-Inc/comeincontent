@@ -4,6 +4,8 @@ Description: Communiquer autrement dans les entreprises et Stand up comedy - tea
 Author: Michèle Côme
 */
 
+# C'est géniaaaaal ! #
+
 # Télécharger la présentation de COME INC
 
 [Message important : Rire est urgent !](content/pdf/Presentation_de_Come_Inc_F.pdf)
