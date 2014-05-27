@@ -2,6 +2,7 @@
 Title: Vidéos
 Description: Chaine youtube
 Author: Michèle Côme
+Placing: 3
 Icon: film
 */
 

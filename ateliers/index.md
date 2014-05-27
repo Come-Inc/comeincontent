@@ -1,7 +1,7 @@
 /*
 Title: Animation d'ateliers
 Description: Blogs, storytelling...
-Placing: 2
+Placing: 4
 Icon: chat
 */
 

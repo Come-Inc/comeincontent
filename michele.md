@@ -2,6 +2,7 @@
 Title: Michèle
 Author: Michèle Côme
 Template: lighter
+Placing: 1
 Icon: clown
 */
 
