@@ -2,7 +2,6 @@
 Title: Humour Incorporated
 Description: Communiquer autrement dans les entreprises et Stand up comedy - team building et One woman show - débloquer les situations tendues et prestations humoristiques - comeinc - rire et business - humor et communication - management par l'humour - corporate comedy - humor incorporated- cohesion- motivation - rire - co-developpement- interactivite - handicap - stress au travail
 Author: Michèle Côme
-Placing: 1
 */
 
 # Télécharger la présentation de COME INC
