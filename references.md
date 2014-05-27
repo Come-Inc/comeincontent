@@ -2,6 +2,7 @@
 Title: Références
 Description: Nos dernières références
 Author: Michèle Côme
+Icon: badge
 
 */
 

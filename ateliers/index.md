@@ -1,5 +1,8 @@
 /*
-Title: Ateliers
+Title: Animation d'ateliers
+Description: Blogs, storytelling...
+Placing: 2
+Icon: chat
 */
 
 # Nos ateliers

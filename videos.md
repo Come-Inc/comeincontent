@@ -1,6 +1,8 @@
 /*
 Title: Vidéos
+Description: Chaine youtube
 Author: Michèle Côme
+Icon: film
 */
 
 # Quelques réalisations
