@@ -5,11 +5,6 @@ Author: Michèle Côme
 Placing: 1
 */
 
-<!-- ![logo](themes/comeinc/img/confettis1.png)
-
-![logo](themes/comeinc/img/logo.png) -->
-
-
 # Télécharger la présentation de COME INC
 
 [Message important : Rire est urgent !](content/pdf/Presentation_de_Come_Inc_F.pdf)
