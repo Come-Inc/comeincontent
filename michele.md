@@ -1,7 +1,9 @@
 /*
 Title: Michèle
 Author: Michèle Côme
-Template: aboutme
+Template: lighter
+Placing: 1
+Icon: clown
 */
 
 # Michèle Côme
@@ -15,3 +17,7 @@ Puis le travail me reprend toute mon énergie, alors je monte sur la scène des 
 Les comités de direction sont alors mon terrain de test de gags et récits humoristiques, pour rendre les affaires plus douces et plus légères.
 
 À la convergence de ces deux vies, COME INC arrive à point nommé pour vous permettre d’atteindre et dépasser vos objectifs de réussite tout en passant un très bon moment… ensemble !
+
+<center>
+    ![logo](/themes/comeinc/img/icons.medium/badge.png){.icon}
+</center>

@@ -4,13 +4,20 @@ Description: Communiquer autrement dans les entreprises et Stand up comedy - tea
 Author: Michèle Côme
 */
 
+<<<<<<< HEAD
+=======
+# Télécharger la présentation de COME INC
+
+[Message important : Rire est urgent !](content/pdf/Presentation_de_Come_Inc_F.pdf)
+
+>>>>>>> b96c13079129d0360ee32c36f90a973e6203cc5b
 # L'humour, un serieux outil de management !
 
 Essayez la "CORPORATE COMEDY !" C'est efficace et vos équipes vont adorer !
 
-* Interventions en public - Cohésion d’équipes - Formation  
-* Ateliers de co-développement - Théâtre forum  
-* Atelier d’écriture, de narration, d’expression orale  
+* Interventions en public - Cohésion d’équipes - Formation
+* Ateliers de co-développement - Théâtre forum
+* Atelier d’écriture, de narration, d’expression orale
 * Vidéos, web series - Tumblr d’entreprises
 
 En savoir plus sur [nos ateliers](ateliers)
@@ -29,12 +36,12 @@ En français, anglais, allemand, espagnol ou italien
 
 # Confiance - Respect - Bienveillance 
 
-**Avant** : des équipes éparses.  
-**Pendant** : un moment d’une intense créativité ludique et révélatrice.  
-**Après** : un outil permanent de sas de décompression.
+**Avant** : des équipes éparses.
+**Pendant** : un moment d’une intense créativité ludique et révélatrice.
+**Après** : un outil permanent de sas de décompression.
 
 >	Une façon originale de mieux percevoir les différences culturelles…
->	En jonglant entre sketches et jeux de rôle, Michèle nous a aidé à prendre du recul et à réfléchir à des solutions concrètes pour répondre à nos problématiques.  
+>	En jonglant entre sketches et jeux de rôle, Michèle nous a aidé à prendre du recul et à réfléchir à des solutions concrètes pour répondre à nos problématiques.
 >	**Maryse Gontier, Directrice des opérations d’HP Services**
 
 Motiver les équipes par l'humour, c'est ça avoir le "bon" sens de l'humour !
