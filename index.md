@@ -4,12 +4,6 @@ Description: Communiquer autrement dans les entreprises et Stand up comedy - tea
 Author: Michèle Côme
 */
 
-# C'est géniaaaaal ! #
-
-# Télécharger la présentation de COME INC
-
-[Message important : Rire est urgent !](content/pdf/Presentation_de_Come_Inc_F.pdf)
-
 # L'humour, un serieux outil de management !
 
 Essayez la "CORPORATE COMEDY !" C'est efficace et vos équipes vont adorer !
@@ -23,16 +17,17 @@ En savoir plus sur [nos ateliers](ateliers)
 
 En français, anglais, allemand, espagnol ou italien
 
-# Pourquoi rire ?
+# Pourquoi l'humour?
 
-*	Pour sa vertu rassembleuse autour de valeurs fondatrices, Pour sa fonction régénératrice d’énergie positive, bien au-delà du handicap.
-*	Le rire collectif soude, crée du lien et entraine la satisfaction et la bonne humeur, la joie d’être ensemble, un point, c’est tout. .
+*	Pour sa vertu rassembleuse 
+*	Pour sa fonction régénératrice d’énergie positive
+*	L'humour collectif soude, crée du lien et entraine la satisfaction et la bonne humeur, la joie d’être ensemble
 *	L’effet miroir sert à un rebond d’intelligence collective face à des situations d’inconfort ou d’embarras.
 *	Les bienfaits du rire sur la diminution du stress et sur la santé sont prouvés scientifiquement.
-*	Rire ? et après ? Longtemps après, le trait d’humour, le mot d’esprit restent le référentiel d’un moment clé de la vie de l’entreprise.
-*	La différence s’estompe et la peur est évacuée.
+*	Pour son effet à long termer car longtemps après, le trait d’humour, le mot d’esprit restent le référentiel d’un moment clé de la vie de l’entreprise.
+*
 
-# Confiance - Respect - Bienveillance - Rires
+# Confiance - Respect - Bienveillance 
 
 **Avant** : des équipes éparses.  
 **Pendant** : un moment d’une intense créativité ludique et révélatrice.  
