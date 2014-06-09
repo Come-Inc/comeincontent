@@ -4,13 +4,11 @@ Description: Communiquer autrement dans les entreprises et Stand up comedy - tea
 Author: Michèle Côme
 */
 
-<<<<<<< HEAD
-=======
 # Télécharger la présentation de COME INC
 
 [Message important : Rire est urgent !](content/pdf/Presentation_de_Come_Inc_F.pdf)
 
->>>>>>> b96c13079129d0360ee32c36f90a973e6203cc5b
+
 # L'humour, un serieux outil de management !
 
 Essayez la "CORPORATE COMEDY !" C'est efficace et vos équipes vont adorer !
