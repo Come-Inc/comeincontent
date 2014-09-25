@@ -9,7 +9,7 @@ Les légendes sous les images animées sont décalées et humoristiques.
 >	![Hmm no, sorry](http://24.media.tumblr.com/tumblr_m99kwchzCI1rd9osjo1_500.gif)  
 > 	Quand je sais que je ne respecterais pas la dealine
 
-->Texte centré ?<-
+<center>Texte centré ?</center>
 
 ### Pour qui ?
 
