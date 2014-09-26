@@ -22,7 +22,8 @@ C'est efficace et vos équipes vont adorer !
 
 En savoir plus sur [nos ateliers](ateliers)
 
-En français, anglais, allemand, [espagnol](pdf/es/comeinc-a5-espagnol.pdf) ou italien
+En [français]([français](pdf/es/comeinc-humour-incorporated.pdf) "français") , [anglais](pdf/es/comeinc-a5-anglais.pdf "anglais"), [allemand](pdf/es/comeinc-a5-allemand.pdf) , [espagnol](pdf/es/comeinc-a5-espagnol.pdf) ou [italien](pdf/es/comeinc-italiano.pdf) 
+
 
 # Pourquoi l'humour?
 
@@ -32,7 +33,6 @@ En français, anglais, allemand, [espagnol](pdf/es/comeinc-a5-espagnol.pdf) ou i
 *	L’effet miroir sert à un rebond d’intelligence collective face à des situations d’inconfort ou d’embarras.
 *	Les bienfaits du rire sur la diminution du stress et sur la santé sont prouvés scientifiquement.
 *	Pour son effet à long terme car longtemps après, le trait d’humour, le mot d’esprit restent le référentiel d’un moment clé de la vie de l’entreprise.
-
 
 # Confiance - Respect - Bienveillance 
 
