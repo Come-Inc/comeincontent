@@ -6,7 +6,7 @@ Placing: 3
 Icon: film
 */
 
-#  #Réalisation de vos vidéos
+# Réalisation de vos vidéos
 Vous n'êtes pas à l'aise devant la caméra? 
 Vous voulez développer votre référencement web?
 Vous voulez diffuser des contenus à valeur ajoutée de manière efficace
@@ -16,6 +16,7 @@ Vous voulez faire passer des messages à la Génération Y?
 
 
 
-#  #Vidéos pastilles <a href="http://www.youtube.com/user/ComeInc">Come Inc sur Youtube</a>...</div>
-
+# Vidéos
 En partenariat avec [http://www.curriculum-video.com/](http://http://www.curriculum-video.com/ "Vidéos")
+
+<div id="cometv">Retrouvez toutes les vidéos sur la chaine <a href="http://www.youtube.com/user/ComeInc">Come Inc sur Youtube</a>...</div>
