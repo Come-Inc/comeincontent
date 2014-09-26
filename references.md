@@ -1,5 +1,5 @@
 /*
-Title: Références
+Title: Références COME INC Ils ont fait confiance à l'humour!
 Description: Nos dernières références
 Author: Michèle Côme
 Template: light
@@ -8,7 +8,7 @@ Icon: badge
 
 */
 
-# Nos dernières références :
+# ILS ONT OSÉ L'HUMOUR :
 
 *	Société Générale Féminin by SG
 *	Formations Wolters Kluwer Initiatives Santé
@@ -26,3 +26,9 @@ Icon: badge
 *	CREATIS GROUPE
 *	Objectif CASH
 *	Femmes Business Angels
+*	Cabinet Simon et Associés
+*	Progressium
+*	Mercen
+*	AFPA
+*	Bristol Meyers Squibb
+*

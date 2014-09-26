@@ -1,14 +1,18 @@
 
 # Le storytelling pour convaincre !
 
+
+![](http://i.imgur.com/vsyP0Vd.jpg)
 ### Conter la belle histoire qui fait adhérer à un projet.
 
-Procédé narratif visant à séduire son auditoire, puissante lanterne magique depuis l’antiquité.![imaginer](http://i.imgur.com/8ibQ2mX.jpg)  
+Procédé narratif visant à séduire son auditoire, puissante lanterne magique depuis l’antiquité.!
 L’outil de communication marketing privilégié depuis les années 1990
 
-**C’est l’arme secrete d’une success story**
+
+
 
 Des mythes grecs aux sociétés high tech, en passant par l’industrie, le storytelling a emporté avec émotion des communautés très diverses dans un univers enthousiasmant, et les a poussées à s’engager.
+
 
 ### Objectif de la session produire en équipe un récit narratif séduisant.
 
@@ -21,6 +25,13 @@ Savoir utiliser l’humour
 
 S'approprier le récit 
 
-S’exercer à conter en public (pitch)
+S’exercer à conter en public (pitch), voire à le chanter
+Trouver un slogan, un MOTO
 
-Planifier la suite du récit, les épisodes et planifier lacommunication adéquate du récit dans la durée
+Produire une vidéo, le début d'une web série
+
+Dessiner la suite du récit, comme une saga avec ses  épisodes Saison 1 Saison 2 ... 
+
+Planifier la communication adéquate du récit dans la durée.
+
+	ADOPTEZ LE STORY TELLING POUR MOTIVER VOS EQUIPES
