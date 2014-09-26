@@ -1,42 +1,44 @@
 /*
+
+
 Title: Humour Incorporated
-Description: Communiquer autrement dans les entreprises et Stand up comedy - team building et One woman show - débloquer les situations tendues et prestations humoristiques - comeinc - rire et business - humor et communication - management par l'humour - corporate comedy - humor incorporated- cohesion- motivation - rire - co-developpement- interactivite - handicap - stress au travail
+Description: Communiquer autrement dans les entreprises et Stand up comedy - team building et One woman show - débloquer les situations tendues et prestations humoristiques - comeinc - rire et business - humour et communication - management par l'humour - corporate comedy - humor incorporated- cohesion- motivation - rire - lutter contre le stress au travail - burn out - co-developpement- interactivite - handicap - stress au travail - videos humoristiques - coaching vidéo - sketch -
 Author: Michèle Côme
 */
 
-# Télécharger la présentation de COME INC
+# OSEZ LA CORPORATE COMEDY!
 
-[Message important : Rire est urgent !](content/pdf/Presentation_de_Come_Inc_F.pdf)
+C'est efficace et vos équipes vont adorer !
 
 
 # L'humour, un serieux outil de management !
 
-Essayez la "CORPORATE COMEDY !" C'est efficace et vos équipes vont adorer !
 
 * Interventions en public - Cohésion d’équipes - Formation
 * Ateliers de co-développement - Théâtre forum
 * Atelier d’écriture, de narration, d’expression orale
-* Vidéos, web series - Tumblr d’entreprises
+* Réalisation de vos Vidéos, coaching devant la caméra
+* Web series - Tumblr d’entreprises
 
 En savoir plus sur [nos ateliers](ateliers)
 
-En français, anglais, allemand, espagnol ou italien
+En français, anglais, allemand, [espagnol](pdf/es/comeinc-a5-espagnol.pdf) ou italien
 
 # Pourquoi l'humour?
 
-*	Pour sa vertu rassembleuse 
+*	Pour sa vertu rassembleuse. 
 *	Pour sa fonction régénératrice d’énergie positive
-*	L'humour collectif soude, crée du lien et entraine la satisfaction et la bonne humeur, la joie d’être ensemble
+*	L'humour collectif soude, crée du lien et entraine la satisfaction et la bonne humeur, la joie d’être ensemble.
 *	L’effet miroir sert à un rebond d’intelligence collective face à des situations d’inconfort ou d’embarras.
 *	Les bienfaits du rire sur la diminution du stress et sur la santé sont prouvés scientifiquement.
-*	Pour son effet à long termer car longtemps après, le trait d’humour, le mot d’esprit restent le référentiel d’un moment clé de la vie de l’entreprise.
-*
+*	Pour son effet à long terme car longtemps après, le trait d’humour, le mot d’esprit restent le référentiel d’un moment clé de la vie de l’entreprise.
+
 
 # Confiance - Respect - Bienveillance 
 
-**Avant** : des équipes éparses.
+**Avant** : des équipes éparses et individualistes, les fameux "silos".
 **Pendant** : un moment d’une intense créativité ludique et révélatrice.
-**Après** : un outil permanent de sas de décompression.
+**Après** : les bienfaits sur la durée du sas de décompression qui a du sens.
 
 >	Une façon originale de mieux percevoir les différences culturelles…
 >	En jonglant entre sketches et jeux de rôle, Michèle nous a aidé à prendre du recul et à réfléchir à des solutions concrètes pour répondre à nos problématiques.
@@ -44,5 +46,10 @@ En français, anglais, allemand, espagnol ou italien
 
 Motiver les équipes par l'humour, c'est ça avoir le "bon" sens de l'humour !
 Consultez l'[interview de VP STRAT](http://vpstrat.unblog.fr/2012/09/12/la-communication-de-professions-a-contenus-complexes-se-doit-elle-d%E2%80%99etre-toujours-serieuse/)
+
+Mais comment fait-elle? Ecoutez ça [http://https://www.facebook.com/ComeInc.fr/posts/542161055817548?stream_ref=5](http://https://www.facebook.com/ComeInc.fr/posts/542161055817548?stream_ref=5 "WIDOOBIZ L'interview dans "Insolent ou Insolite"")
+
+Mais comment ça lui est venu? Regardez ça [http://http://www.monquotidienautrement.com/travail/rire-au-boulot-ce-nest-pas-s-rieux](http://http://www.monquotidienautrement.com/travail/rire-au-boulot-ce-nest-pas-s-rieux "Rire au boulot? Ce n'est pas sérieux!")
+
 
 **Celui qui sait rire de lui-même n’a pas fini de progresser…**
