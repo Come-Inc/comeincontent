@@ -1,13 +1,8 @@
-/*
-Title: Humour Incorporated
-Description: Communiquer autrement dans les entreprises et Stand up comedy - team building et One woman show - débloquer les situations tendues et prestations humoristiques - comeinc - rire et business - humor and communication - management par l'humour - corporate comedy - humor incorporated- cohesion- motivation - rire - co-developpement- interactivite - handicap - stress au travail - humour and  management - performance - videos - web series - parler en public - 
-
-#  EXPLOREZ la valeur de l’humour au travail : L'humour.... 
+#  #EXPLOREZ la valeur de l’humour au travail : L'humour.... 
 
 
 
 - Captive l’auditoire
-
 - Facilite la compréhension du changement
 
 
@@ -37,19 +32,10 @@ Consultez l'[interview de VP STRAT](http://vpstrat.unblog.fr/2012/09/12/la-commu
 
 **Celui qui sait rire de lui-même n’a pas fini de progresser…**
 
-
+- ![COMEINC Humour Incorporated](http://i.imgur.com/NNzZPAh.jpg)
 
 Alors essayez la **CORPORATE COMEDY!**
 ![Heureux au travail](http://i.imgur.com/Ro3zsIO.gif)
 
 
-" C'est efficace et vos équipes vont adorer !
 
-* Interventions en public - Cohésion d’équipes - Formation
-* Ateliers de co-développement - Théâtre forum
-* Atelier d’écriture, de narration, d’expression orale
-* Vidéos, web series - Tumblr d’entreprises
-
-
-
-En français, anglais, allemand, espagnol ou italien, en mime aussi...
