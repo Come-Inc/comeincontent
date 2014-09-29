@@ -9,7 +9,9 @@ Author: Michèle Côme
 # OSEZ LA CORPORATE COMEDY!
 
 C'est efficace et vos équipes vont adorer ! Vous pensez comme beaucoup "ah oui on en a bien besoin" alors qu'est-ce qui vous arrête? "Oh non pas chez nous, ça ne passera jamais chez nous"
-Essayez, vous verrez! [http://https://www.youtube.com/watch?v=Dq-LTRpCJs4](http://https://www.youtube.com/watch?v=Dq-LTRpCJs4)
+Essayez, vous verrez!
+
+[Ma dernière vidéo](https://www.youtube.com/watch?v=Dq-LTRpCJs4)
 
 
 # Explorez l'humour, un serieux outil de management !
