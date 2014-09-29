@@ -53,9 +53,9 @@ Tout ça on le sait, alors pourquoi n'ose-t-on pas? Alors que les bénéfices so
 Motiver les équipes par l'humour, c'est ça avoir le "bon" sens de l'humour !
 Consultez l'[interview de VP STRAT](http://vpstrat.unblog.fr/2012/09/12/la-communication-de-professions-a-contenus-complexes-se-doit-elle-d%E2%80%99etre-toujours-serieuse/)
 
-Mais comment fait-elle ? [Ecoutez WIDOOBIZ, l'interview dans "Insolent ou Insolite"](http://https://www.facebook.com/ComeInc.fr/posts/542161055817548?stream_ref=5)
+Mais comment fait-elle ? [Ecoutez WIDOOBIZ, l'interview dans "Insolent ou Insolite"](https://www.facebook.com/ComeInc.fr/posts/542161055817548?stream_ref=5)
 
-Mais comment ça lui est venu? Regardez [Rire au boulot? Ce n'est pas sérieux !](http://http://www.monquotidienautrement.com/travail/rire-au-boulot-ce-nest-pas-s-rieux)
+Mais comment ça lui est venu? Regardez [Rire au boulot? Ce n'est pas sérieux !](http://www.monquotidienautrement.com/travail/rire-au-boulot-ce-nest-pas-s-rieux)
 
 
 ## **Celui qui sait rire de lui-même n’a pas fini de progresser…** ##
