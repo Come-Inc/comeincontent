@@ -3,7 +3,7 @@
 
 
 ![](http://i.imgur.com/vsyP0Vd.jpg)
-### Conter la belle histoire qui fait adhérer à un projet.
+### Ecrire l'histoire qui fait adhérer à un projet.
 
 Procédé narratif visant à séduire son auditoire, puissante lanterne magique depuis l’antiquité.!
 L’outil de communication marketing privilégié depuis les années 1990
