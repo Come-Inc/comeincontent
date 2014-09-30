@@ -1,14 +1,16 @@
 /*
-Title: Références COME INC Ils ont fait confiance à l'humour!
+Title: Références COME INC 
+Ils ont fait confiance à l'humour!
 Description: Nos dernières références
 Author: Michèle Côme
 Template: light
-Placing: 2
+Placing: 4
 Icon: badge
 
 */
 
 # ILS ONT OSÉ L'HUMOUR :
+et certains en ont même redemandé!
 
  ![](http://i.imgur.com/QTckbcs.jpg)
 

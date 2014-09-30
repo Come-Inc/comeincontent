@@ -1,3 +1,12 @@
+/*
+Title: Partenaires
+Description: quelle équipe!
+Author: Michèle Côme
+Template: light
+Placing: 5
+Icon: badge
+
+
 **COME INC** travaille aussi en collaboration avec ses **partenaires coachs et experts** pour vous apporter un accompagnement complet, vivant et efficace.
 
 Le coaching c'est bien, c'est même une sacrée bonne méthode pour  permettre aux équipes dirigeantes de piloter leur carrière, de mieux résister au stress, de controler leurs émotions, d'être efficaces.
@@ -7,10 +16,9 @@ Le coaching animé par COME INC et ses partenaires, c'est 2 fois plus d'efficaci
 La lutte contre le stress, le burn-out, la gestion de conflits, les actions en faveur du "mieux vivre ensemble", l'engagement des collaborateurs, la motivation, autant de thèmes qui méritent d'être boostés par la bonne humeur!
 
 Et le résultat en vidéo c'est encore mieux!
-[http://https://www.youtube.com/watch?v=qv08Lz7So0s](http://https://www.youtube.com/watch?v=qv08Lz7So0s "Vidéo Come Inc et Curriculum Vidéo")
 
 
-----------
+[http://Contrôler ses émotions](http://www.paletterh.com/videos.htm )
 
 
 **Catherine PICQ RICARD** coach de dirigeants, Médiatrice, spécialiste de la PROCESS COM [http://http://www.paletterh.com/](http://http://www.paletterh.com/ "PALETTE RH") 
