@@ -45,7 +45,7 @@ En [français ](pdf/fr/comeinc-humour-incorporated.pdf), [anglais](pdf/en/comein
 
 
 
-## Celui qui sait rire de lui-même n’a pas fini de progresser…##
+## Celui qui sait rire de lui-même n’a pas fini de progresser…
 
 
 
@@ -60,7 +60,7 @@ En [français ](pdf/fr/comeinc-humour-incorporated.pdf), [anglais](pdf/en/comein
 
 ----------
 
-## Que dit la presse? ##
+## Que dit la presse ?
 Motiver les équipes par l'humour, c'est ça avoir le "bon" sens de l'humour ! 
 Consultez l'[interview de VP STRAT](http://vpstrat.unblog.fr/2012/09/12/la-communication-de-professions-a-contenus-complexes-se-doit-elle-d%E2%80%99etre-toujours-serieuse/)
 
@@ -68,4 +68,4 @@ Mais comment fait-elle? [Ecoutez ça sur Widoobiz](http://www.widoobiz.com/j-ent
 
 Mais comment ça lui est venu? [Regardez l'entretien vidéo de Mon Quotidien Autrement](http://www.monquotidienautrement.com/travail/rire-au-boulot-ce-nest-pas-s-rieux "Rire au boulot? Ce n'est pas sérieux!")
 
-##Toujours avec Confiance - Respect et Bienveillance ##
+## Toujours avec Confiance - Respect et Bienveillance

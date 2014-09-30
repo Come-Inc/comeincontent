@@ -19,9 +19,9 @@ En français, anglais, allemand, espagnol ou italien et surtout en GLOBISH! (aut
 
 # Avec nos experts partenaires nous construisons vos sessions Ad hoc
 
-[Palette RH Catherine Picq-Ricard](http://www.paletterh.fr)
-[Isabelle DEPREZ Speaker et Coach](http://www.isabelledeprez.fr/)
-[Expressions-Voix](http://www.expressions-voix.fr/)
-[Better Human](http://www.betterhuman.fr/)
-[Rhadamante](http://www.rhadamante.com/)
+[Palette RH Catherine Picq-Ricard](http://www.paletterh.fr)  
+[Isabelle DEPREZ Speaker et Coach](http://www.isabelledeprez.fr/)  
+[Expressions-Voix](http://www.expressions-voix.fr/)  
+[Better Human](http://www.betterhuman.fr/)  
+[Rhadamante](http://www.rhadamante.com/)  
 et toujours avec l'option [Vidéos](http://www.curriculum-video.com/) de [Curriculum Video](http://www.curriculum-video.com/)
