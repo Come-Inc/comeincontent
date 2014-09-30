@@ -81,9 +81,9 @@ En [français ](pdf/fr/comeinc-humour-incorporated.pdf), [anglais](pdf/en/comein
 Motiver les équipes par l'humour, c'est ça avoir le "bon" sens de l'humour ! VP strat l'interview
 Consultez l'[interview de VP STRAT](http://vpstrat.unblog.fr/2012/09/12/la-communication-de-professions-a-contenus-complexes-se-doit-elle-d%E2%80%99etre-toujours-serieuse/)
 
-Mais comment fait-elle? Ecoutez ça sur Widoobiz [http://http://www.widoobiz.com/j-entreprends-comme-je-suis/insolent-insolite/elle-fait-de-la-communication-interne-par-le-rire/28994](http://http://www.widoobiz.com/j-entreprends-comme-je-suis/insolent-insolite/elle-fait-de-la-communication-interne-par-le-rire/28994)
+Mais comment fait-elle? [Ecoutez ça sur Widoobiz](http://www.widoobiz.com/j-entreprends-comme-je-suis/insolent-insolite/elle-fait-de-la-communication-interne-par-le-rire/28994)
 
-Mais comment ça lui est venu? Regardez l'entretien vidéo de Mon Quotidien Autrement [http://http://www.monquotidienautrement.com/travail/rire-au-boulot-ce-nest-pas-s-rieux](http://http://www.monquotidienautrement.com/travail/rire-au-boulot-ce-nest-pas-s-rieux "Rire au boulot? Ce n'est pas sérieux!")
+Mais comment ça lui est venu? [Regardez l'entretien vidéo de Mon Quotidien Autrement](http://www.monquotidienautrement.com/travail/rire-au-boulot-ce-nest-pas-s-rieux "Rire au boulot? Ce n'est pas sérieux!")
 
 
 

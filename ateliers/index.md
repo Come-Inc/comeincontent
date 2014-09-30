@@ -22,10 +22,10 @@ En français, anglais, allemand, espagnol ou italien et surtout en GLOBISH! (aut
 
 [http://www.paletterh.fr](http://www.paletterh.fr "Palette RH Catherine Picq-Ricard")
 
-[http://http://www.isabelledeprez.fr/](http://http://www.isabelledeprez.fr/ "Isabelle DEPREZ S²peaker et Coach")
+[http://www.isabelledeprez.fr/](http://www.isabelledeprez.fr/ "Isabelle DEPREZ S²peaker et Coach")
 
-[http://http://www.curriculum-video.com/](http://http://www.curriculum-video.com/ "Vidéos")
+[http://www.curriculum-video.com/](http://www.curriculum-video.com/ "Vidéos")
 
-[http://http://www.betterhuman.fr/](http://http://www.betterhuman.fr/ "Better Human")
+[http://www.betterhuman.fr/](http://www.betterhuman.fr/ "Better Human")
 
-[http://http://www.rhadamante.com/](http://http://www.rhadamante.com/ "Rhadamante")
+[http://www.rhadamante.com/](http://www.rhadamante.com/ "Rhadamante")

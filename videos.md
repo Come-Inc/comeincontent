@@ -24,8 +24,8 @@ Icon: film
 - Vous voulez faire passer des messages à la Génération Y?
 
 # Quelques réalisations
-En partenariat avec [http://www.curriculum-video.com/](http://http://www.curriculum-video.com/ "Vidéos")
-[http://http://www.paletterh.com/videos.htm](http://www.paletterh.com/videos.htm)
+En partenariat avec [http://www.curriculum-video.com/](http://www.curriculum-video.com/ "Vidéos")
+[http://www.paletterh.com/videos.htm](http://www.paletterh.com/videos.htm)
 
 
 <div id="cometv">Retrouvez toutes les vidéos sur la chaine <a href="http://www.youtube.com/user/ComeInc">Come Inc sur Youtube</a>...</div>

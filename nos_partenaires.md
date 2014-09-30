@@ -5,7 +5,7 @@ Author: Michèle Côme
 Template: light
 Placing: 5
 Icon: badge
-
+*/
 
 **COME INC** travaille aussi en collaboration avec ses **partenaires coachs et experts** pour vous apporter un accompagnement complet, vivant et efficace.
 
@@ -21,14 +21,14 @@ Et le résultat en vidéo c'est encore mieux!
 [http://Contrôler ses émotions](http://www.paletterh.com/videos.htm )
 
 
-**Catherine PICQ RICARD** coach de dirigeants, Médiatrice, spécialiste de la PROCESS COM [http://http://www.paletterh.com/](http://http://www.paletterh.com/ "PALETTE RH") 
+**Catherine PICQ RICARD** coach de dirigeants, Médiatrice, spécialiste de la PROCESS COM [http://www.paletterh.com/](http://www.paletterh.com/ "PALETTE RH") 
 
 **Isabelle DEPREZ** coach et Speaker intervient sur les sujets de parité et de développement des dirigeantes
-[http://http://www.isabelledeprez.fr/#!parcours-profil-isabelle/coh](http://http://www.isabelledeprez.fr/#!parcours-profil-isabelle/coh "Isabelle DEPREZ ")
+[http://www.isabelledeprez.fr/#!parcours-profil-isabelle/coh](http://www.isabelledeprez.fr/#!parcours-profil-isabelle/coh "Isabelle DEPREZ ")
 
-**BETTER HUMAN Cie** Le **Docteur Florence BENICHOUX** et son équipe au service de la SANTÉ AU TRAVAIL, du diagnostic au plan d'action! [http://http://www.betterhuman.fr/nos-interventions/](http://http://www.betterhuman.fr/nos-interventions/ "Better Human Notre conviction est que la différence se fait par l'humain")
+**BETTER HUMAN Cie** Le **Docteur Florence BENICHOUX** et son équipe au service de la SANTÉ AU TRAVAIL, du diagnostic au plan d'action! [http://www.betterhuman.fr/nos-interventions/](http://www.betterhuman.fr/nos-interventions/ "Better Human Notre conviction est que la différence se fait par l'humain")
 
 **EXPRESSIONS VOIX** **Christine MOUSSOT** vous coache pour maîtriser votre voix en public [http://www.expressions-voix.fr/](http://www.expressions-voix.fr/)
 
 **CURRICULUM VIDEO** met à votre disposition ses vidéastes pour faire vivre vos messages
-[http://http://www.curriculum-video.com/](http://http://www.curriculum-video.com/ "Vidéos")
+[http://www.curriculum-video.com/](http://www.curriculum-video.com/ "Vidéos")

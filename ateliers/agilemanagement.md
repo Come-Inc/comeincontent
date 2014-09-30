@@ -1,7 +1,7 @@
 #Le management "agile"
 
 
-Agile vous dites ? Comme le lapin ou comme un lanceur de Diabolo ? [http://http://fr.wikipedia.org/wiki/Management_agile](http://http://fr.wikipedia.org/wiki/Management_agile "def management agile")
+Agile vous dites ? Comme le lapin ou comme un lanceur de Diabolo ? [http://fr.wikipedia.org/wiki/Management_agile](http://fr.wikipedia.org/wiki/Management_agile "def management agile")
 
 Aussi… mais avant tout, dans le langage des start-up, des développeurs de la High Tech et chez les business developers, l’agilité est une méthode d’innovation qui a fait ses preuves. 
 
