@@ -6,7 +6,7 @@ Description: Communiquer autrement dans les entreprises et Stand up comedy - tea
 Author: Michèle Côme
 */
 
-#  #OSEZ LA CORPORATE COMEDY!
+# OSEZ LA CORPORATE COMEDY! #
 
 C'est efficace et vos équipes vont adorer ! Vous pensez comme beaucoup "ah oui on en a bien besoin!" alors qu'est-ce qui vous arrête? Vous nous dites "Oh non pas chez nous, ça ne passera jamais chez nous"
 Essayez, vous verrez!
