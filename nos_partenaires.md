@@ -15,24 +15,22 @@ Le coaching animé par COME INC et ses partenaires, c'est 2 fois plus d'efficaci
 
 La lutte contre le stress, le burn-out, la gestion de conflits, les actions en faveur du "mieux vivre ensemble", l'engagement des collaborateurs, la motivation, autant de thèmes qui méritent d'être boostés par la bonne humeur!
 
-Et le résultat en vidéo c'est encore mieux!
-[http://Contrôler ses émotions](http://www.paletterh.com/videos.htm )
+Et le résultat en vidéo c'est encore mieux !
+[Contrôler ses émotions](http://www.paletterh.com/videos.htm )
 
 ----------
 
 
-**Catherine PICQ RICARD** coach de dirigeants, Médiatrice, spécialiste de la PROCESS COM [http://www.paletterh.com/](http://www.paletterh.com/ "PALETTE RH") 
+**Catherine PICQ RICARD** coach de dirigeants, Médiatrice, spécialiste de la PROCESS COM [PALETTE RH](http://www.paletterh.com/)
 
-**Isabelle DEPREZ** coach et Speaker intervient sur les sujets de parité et de développement des dirigeantes
-[http://www.isabelledeprez.fr/#!parcours-profil-isabelle/coh](http://www.isabelledeprez.fr/#!parcours-profil-isabelle/coh "Isabelle DEPREZ ")
+**[Isabelle DEPREZ](http://www.isabelledeprez.fr/#!parcours-profil-isabelle/coh)** coach et Speaker intervient sur les sujets de parité et de développement des dirigeantes
 
-**BETTER HUMAN Cie** Le **Docteur Florence BENICHOUX** et son équipe au service de la SANTÉ AU TRAVAIL, du diagnostic au plan d'action! [http://www.betterhuman.fr/nos-interventions/](http://www.betterhuman.fr/nos-interventions/ "Better Human Notre conviction est que la différence se fait par l'humain")
+**[BETTER HUMAN Cie](http://www.betterhuman.fr/nos-interventions/)** Le **Docteur Florence BENICHOUX** et son équipe au service de la SANTÉ AU TRAVAIL, du diagnostic au plan d'action !
 
-**EXPRESSIONS VOIX** **Christine MOUSSOT** vous coache pour maîtriser votre voix en public [http://www.expressions-voix.fr/](http://www.expressions-voix.fr/)
+**[EXPRESSIONS VOIX](http://www.expressions-voix.fr/)** **Christine MOUSSOT** vous coache pour maîtriser votre voix en public
 
-****RHADAMANTE ****une équipe de coachs confirmés [http://www.rhadamante.com/](http://www.rhadamante.com/ "Rhadamante")
+**[RHADAMANTE](http://www.rhadamante.com/)** une équipe de coachs confirmés
 
-**CURRICULUM VIDEO** met à votre disposition ses vidéastes pour faire vivre vos messages
-[http://www.curriculum-video.com/](http://www.curriculum-video.com/ "Vidéos")
+**[CURRICULUM VIDEO](http://www.curriculum-video.com/)** met à votre disposition ses vidéastes pour faire vivre vos messages
 
 ----------
