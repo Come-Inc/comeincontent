@@ -30,6 +30,8 @@ Et le résultat en vidéo c'est encore mieux!
 
 **EXPRESSIONS VOIX** **Christine MOUSSOT** vous coache pour maîtriser votre voix en public [http://www.expressions-voix.fr/](http://www.expressions-voix.fr/)
 
+****RHADAMANTE ****une équipe de coachs confirmés [http://www.rhadamante.com/](http://www.rhadamante.com/ "Rhadamante")
+
 **CURRICULUM VIDEO** met à votre disposition ses vidéastes pour faire vivre vos messages
 [http://www.curriculum-video.com/](http://www.curriculum-video.com/ "Vidéos")
 

@@ -27,7 +27,7 @@ En savoir plus sur [nos ateliers](ateliers)
 En [français ](pdf/fr/comeinc-humour-incorporated.pdf), [anglais](pdf/en/comeinc-anglais.pdf), [allemand](pdf/de/comeinc-allemand.pdf), [espagnol](pdf/es/comeinc-espagnol.pdf) ou [italien](pdf/it/comeinc-italiano.pdf)
 
 
-	![Heureux au travail](http://i.imgur.com/Ro3zsIO.gif)
+![Heureux au travail](http://i.imgur.com/Ro3zsIO.gif)
 
 #  Car l'humour.... 
 
