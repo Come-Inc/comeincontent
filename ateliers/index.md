@@ -10,7 +10,7 @@ En fonction de l'objectif, choisir le format adapté : Jeux de rôles, vidéo, �
 
 * [Faisons sourire le handicap !](handicap1)
 *	[Atelier d’écriture, de narration, d’expression orale](storytelling)
-*	Vidéos, web series avec notre partenaire Curriculum Video [VIDEOS avec Curriculum Vidéo](http://https://www.youtube.com/watch?v=qv08Lz7So0s)
+*	Vidéos, web series avec notre partenaire Curriculum Video [VIDEOS avec Curriculum Vidéo](https://www.youtube.com/watch?v=qv08Lz7So0s)
 *	[Tumblr d'entreprise](tumblrdentreprise1)
 *	[Management agile](agilemanagement)
 	
