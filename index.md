@@ -6,7 +6,7 @@ Description: Communiquer autrement dans les entreprises et Stand up comedy - tea
 Author: Michèle Côme
 */
 
-OSEZ LA CORPORATE COMEDY!
+#  #OSEZ LA CORPORATE COMEDY!
 
 C'est efficace et vos équipes vont adorer ! Vous pensez comme beaucoup "ah oui on en a bien besoin!" alors qu'est-ce qui vous arrête? Vous nous dites "Oh non pas chez nous, ça ne passera jamais chez nous"
 Essayez, vous verrez!
@@ -14,7 +14,7 @@ Essayez, vous verrez!
 [Ma dernière vidéo](https://www.youtube.com/watch?v=Dq-LTRpCJs4)
 
 
-Explorez l'humour, un serieux outil de management !
+#  Explorez l'humour, un serieux outil de management !
 
 -  Interventions en public Cohésion d’équipes Formation
 -  Ateliers de co-développement Théâtre forum
@@ -68,4 +68,4 @@ Mais comment fait-elle? [Ecoutez ça sur Widoobiz](http://www.widoobiz.com/j-ent
 
 Mais comment ça lui est venu? [Regardez l'entretien vidéo de Mon Quotidien Autrement](http://www.monquotidienautrement.com/travail/rire-au-boulot-ce-nest-pas-s-rieux "Rire au boulot? Ce n'est pas sérieux!")
 
-##  Toujours avec Confiance - Respect et Bienveillance ##
+##Toujours avec Confiance - Respect et Bienveillance ##
