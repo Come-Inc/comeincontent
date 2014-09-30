@@ -68,4 +68,4 @@ Mais comment fait-elle? [Ecoutez ça sur Widoobiz](http://www.widoobiz.com/j-ent
 
 Mais comment ça lui est venu? [Regardez l'entretien vidéo de Mon Quotidien Autrement](http://www.monquotidienautrement.com/travail/rire-au-boulot-ce-nest-pas-s-rieux "Rire au boulot? Ce n'est pas sérieux!")
 
-> ####  Toujours avec Confiance - Respect et Bienveillance ####
+##  Toujours avec Confiance - Respect et Bienveillance
