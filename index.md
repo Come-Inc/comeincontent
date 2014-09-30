@@ -16,16 +16,15 @@ Essayez, vous verrez!
 
 # Explorez l'humour, un serieux outil de management !
 
+-  Interventions en public Cohésion d’équipes Formation
+-  Ateliers de co-développement Théâtre forum
+-  Atelier d’écriture, de narration, d’expression orale
+-  Réalisation de vos Vidéos, coaching devant la caméra
+-  Web series Tumblr d’entreprises
 
-* Interventions en public - Cohésion d’équipes - Formation
-* Ateliers de co-développement - Théâtre forum
-* Atelier d’écriture, de narration, d’expression orale
-* Réalisation de vos Vidéos, coaching devant la caméra
-* Web series - Tumblr d’entreprises
+En savoir plus sur [nos ateliers](ateliers)
 
-	En savoir plus sur [nos ateliers](ateliers)
-
-	En [français ](pdf/fr/comeinc-humour-incorporated.pdf), [anglais](pdf/en/comeinc-anglais.pdf), [allemand](pdf/de/comeinc-allemand.pdf), [espagnol](pdf/es/comeinc-espagnol.pdf) ou [italien](pdf/it/comeinc-italiano.pdf)
+En [français ](pdf/fr/comeinc-humour-incorporated.pdf), [anglais](pdf/en/comeinc-anglais.pdf), [allemand](pdf/de/comeinc-allemand.pdf), [espagnol](pdf/es/comeinc-espagnol.pdf) ou [italien](pdf/it/comeinc-italiano.pdf)
 
 
 	![Heureux au travail](http://i.imgur.com/Ro3zsIO.gif)
@@ -50,7 +49,7 @@ Essayez, vous verrez!
 
 
 
--![COMEINC Humour Incorporated](http://i.imgur.com/NNzZPAh.jpg)
+![COMEINC Humour Incorporated](http://i.imgur.com/NNzZPAh.jpg)
 
 
 
