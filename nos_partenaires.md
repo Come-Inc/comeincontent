@@ -23,7 +23,7 @@ Et le résultat en vidéo c'est encore mieux !
 
 **Catherine PICQ RICARD** coach de dirigeants, Médiatrice, spécialiste de la PROCESS COM [PALETTE RH](http://www.paletterh.com/)
 
-**[Isabelle DEPREZ](http://www.isabelledeprez.fr/#!parcours-profil-isabelle/coh)** coach et Speaker intervient sur les sujets de parité et de développement des dirigeantes
+**[Isabelle DEPREZ](http://www.isabelledeprez.fr/#!parcours-profil-isabelle/coh)** Coach et Speaker intervient sur les sujets de parité et de développement des dirigeantes
 
 **[BETTER HUMAN Cie](http://www.betterhuman.fr/nos-interventions/)** Le **Docteur Florence BENICHOUX** et son équipe au service de la SANTÉ AU TRAVAIL, du diagnostic au plan d'action !
 
