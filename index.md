@@ -6,7 +6,7 @@ Description: Communiquer autrement dans les entreprises et Stand up comedy - tea
 Author: Michèle Côme
 */
 
-** OSEZ LA CORPORATE COMEDY!**
+OSEZ LA CORPORATE COMEDY!
 
 C'est efficace et vos équipes vont adorer ! Vous pensez comme beaucoup "ah oui on en a bien besoin!" alors qu'est-ce qui vous arrête? Vous nous dites "Oh non pas chez nous, ça ne passera jamais chez nous"
 Essayez, vous verrez!
@@ -14,7 +14,7 @@ Essayez, vous verrez!
 [Ma dernière vidéo](https://www.youtube.com/watch?v=Dq-LTRpCJs4)
 
 
-** Explorez l'humour, un serieux outil de management !**
+Explorez l'humour, un serieux outil de management !
 
 -  Interventions en public Cohésion d’équipes Formation
 -  Ateliers de co-développement Théâtre forum
@@ -24,7 +24,7 @@ Essayez, vous verrez!
 
 En savoir plus sur [nos ateliers](ateliers)
 
-En [français ](pdf/fr/comeinc-humour-incorporated.pdf), [anglais](pdf/en/comeinc-anglais.pdf), [allemand](pdf/de/comeinc-allemand.pdf), [espagnol](pdf/es/comeinc-espagnol.pdf) ou [italien](pdf/it/comeinc-italiano.pdf)
+En [français ](pdf/fr/comeinc-humour-incorporated.pdf), [anglais](pdf/en/comeinc-anglais.pdf), [allemand](pdf/de/comeinc-allemand.pdf), [espagnol](pdf/es/comeinc-espagnol.pdf) ou [italien](pdf/it/comeinc-italiano.pdf) et en Globish surtout
 
 
 ![Heureux au travail](http://i.imgur.com/Ro3zsIO.gif)
