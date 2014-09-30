@@ -16,9 +16,9 @@ Le coaching animé par COME INC et ses partenaires, c'est 2 fois plus d'efficaci
 La lutte contre le stress, le burn-out, la gestion de conflits, les actions en faveur du "mieux vivre ensemble", l'engagement des collaborateurs, la motivation, autant de thèmes qui méritent d'être boostés par la bonne humeur!
 
 Et le résultat en vidéo c'est encore mieux!
-
-
 [http://Contrôler ses émotions](http://www.paletterh.com/videos.htm )
+
+----------
 
 
 **Catherine PICQ RICARD** coach de dirigeants, Médiatrice, spécialiste de la PROCESS COM [http://www.paletterh.com/](http://www.paletterh.com/ "PALETTE RH") 
@@ -32,3 +32,5 @@ Et le résultat en vidéo c'est encore mieux!
 
 **CURRICULUM VIDEO** met à votre disposition ses vidéastes pour faire vivre vos messages
 [http://www.curriculum-video.com/](http://www.curriculum-video.com/ "Vidéos")
+
+----------
