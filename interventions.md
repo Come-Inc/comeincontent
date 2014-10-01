@@ -7,14 +7,11 @@ Template: lighter
 Placing: 2
 Icon: clown
 */
-**OSEZ L'HUMOUR AU COEUR DE VOTRE MANAGEMENT**
+# **OSEZ L'HUMOUR AU COEUR DE VOTRE MANAGEMENT**
 
-**
- INTERVENTIONS EN PUBLIC COHÉSION D’ÉQUIPES FORMATION
-  ATELIERS DE CO-DÉVELOPPEMENT THÉÂTRE FORUM
-  ATELIER D’ÉCRITURE, DE NARRATION, D’EXPRESSION ORALE
-  RÉALISATION DE VOS VIDÉOS, COACHING DEVANT LA CAMÉRA
-  WEB SERIES TUMBLR D’ENTREPRISE** 
+## INTERVENTIONS PUBLIQUES - SKETCH BRISE GLACE - ANIMATION DE CONFERENCES - FORMATIONS - ATELIERS 	- THÉÂTRE FORUM - BLOG D'ENTREPRISE - VIDÉOS  ##
+
+
 #Des ateliers qui ont du sens #
 METHODOLOGIE : A partir d'informations internes et stratégiques et des échanges avec les collaborateurs clefs COMEINC produit des sketchs / des vidéos / Tumblr / anime des sessions et des groupes de travail. 
 
