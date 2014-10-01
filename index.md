@@ -5,13 +5,12 @@ Description: Communiquer autrement dans les entreprises et Stand up comedy - tea
 Author: Michèle Côme
 */
 
-# **OSEZ L'HUMOUR AU COEUR DE VOTRE MANAGEMENT**
+
+# OSEZ LA CORPORATE COMEDY ! #
+
 
 ## INTERVENTIONS PUBLIQUES - SKETCH BRISE GLACE - ANIMATION DE CONFERENCES - FORMATIONS - ATELIERS 	- THÉÂTRE FORUM - BLOG D'ENTREPRISE - VIDÉOS  ##
 
-
-
-# OSEZ LA CORPORATE COMEDY ! #
 
 
 C'est efficace et vos équipes vont adorer ! Vous pensez comme beaucoup "ah oui on en a bien besoin!" alors qu'est-ce qui vous arrête ? Vous nous dites "Oh non pas chez nous, ça ne passera jamais...."
