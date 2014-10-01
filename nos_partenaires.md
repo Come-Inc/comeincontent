@@ -6,12 +6,12 @@ Template: light
 Placing: 5
 Icon: badge
 */
-##** OSEZ L'HUMOUR AU COEUR DE VOTRE MANAGEMENT
+## OSEZ L'HUMOUR AU COEUR DE VOTRE MANAGEMENT
 
 ## Interventions publiques - Formations - Ateliers -
 ##  Théâtre Forum - Blog d'entreprise - vidéos ##
 
- ### **AVEC NOS PARTENAIRES ON ASSURE ! #**
+ ### **AVEC NOS PARTENAIRES ON ASSURE ! **
 
 **COME INC** travaille aussi en collaboration avec des **partenaires coachs et experts** pour vous apporter un accompagnement complet, vivant et efficace.
 
