@@ -23,4 +23,4 @@ Collaborateurs de la génération Y, Managers d’équipes jeunes, et tous les g
 *	Produire des moments clefs d’intelligence collective.
 *	Intégrer le « bien-être au travail » dans le management et teinter les valeurs managériales de sourires.
 
-**Prêts pour les nouveaux médias?**
+**Prêts pour les nouveaux médias ?**

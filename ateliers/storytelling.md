@@ -22,5 +22,5 @@ Intégrer dans l’histoire les facteurs de succès clefs, les bénéfices produ
 - Dessiner la suite du récit, comme une saga avec ses  épisodes Saison 1 Saison 2 ... 
 - Planifier la communication adéquate du récit dans la durée.
 
-**Adoptez le storytelling pour dynamiser l'engagement de vos équipes!!
+**Adoptez le storytelling pour dynamiser l'engagement de vos équipes !
 **

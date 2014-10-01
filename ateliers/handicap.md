@@ -12,4 +12,4 @@ De multiples axes de développement de moments humoristiques en ateliers interac
 *	Cherchons le clown qui est en nous.Passer de la différence et de l’indifférence à l’intérêt et à l’action.
 ![Non non merci j'ai déjà tout ce qu'il me faut](http://i.imgur.com/jW3mjYV.gif)
 
-**prêts à tenter?**
+**prêts à tenter ?**

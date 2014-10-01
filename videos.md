@@ -5,17 +5,25 @@ Author: Michèle Côme
 Placing: 3
 Icon: film
 */
+**OSEZ L'HUMOUR AU COEUR DE VOTRE MANAGEMENT**
+
+**
+ INTERVENTIONS EN PUBLIC COHÉSION D’ÉQUIPES FORMATION
+  ATELIERS DE CO-DÉVELOPPEMENT THÉÂTRE FORUM
+  ATELIER D’ÉCRITURE, DE NARRATION, D’EXPRESSION ORALE
+  RÉALISATION DE VOS VIDÉOS, COACHING DEVANT LA CAMÉRA
+  WEB SERIES TUMBLR D’ENTREPRISE** 
 
 # Réalisation de vos vidéos
 
-- Vous n'êtes pas à l'aise devant la caméra?
-- Vous voulez développer votre référencement web?
-- Vous voulez diffuser des contenus à valeur ajoutée de manière institutionnelle, efficace ou décalée?
-- Vous voulez produire une série web?
-- Vous voulez faire passer des messages à la Génération Y?
+- Vous n'êtes pas à l'aise devant la caméra ?
+- Vous voulez développer votre référencement web ?
+- Vous voulez diffuser des contenus à valeur ajoutée de manière institutionnelle, efficace ou décalée ?
+- Vous voulez produire une série web ?
+- Vous voulez faire passer des messages à la Génération Y ?
 
 # Quelques réalisations
 
 [http://www.paletterh.com/videos.htm](http://www.paletterh.com/videos.htm)
 En partenariat avec [http://www.curriculum-video.com/](http://www.curriculum-video.com/ "Vidéos")
-<div id="cometv">Retrouvez toutes les vidéos sur la chaine <a href="http://www.youtube.com/user/ComeInc">Come Inc sur Youtube</a>...</div>
+<div id="cometv">Retrouvez toutes les vidéos sur la **chaine <a href="http://www.youtube.com/user/ComeInc">Come Inc sur Youtube</a>...</div>**

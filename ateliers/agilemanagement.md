@@ -15,7 +15,7 @@ Mais encore..??
 *	Apprendre à s’adapter au changement
 *	Par itération, réaliser les objectifs en restant toujours en ligne avec les attentes des utilisateurs finaux.
 
-LE PLUS DE COME INC  ##: utilisation de l’humour comme fil conducteur, rassembleur et dynamisant. Improvisation. Forum ouvert. Oui à l'esprit d'équipe?
+LE PLUS DE COME INC  ##: utilisation de l’humour comme fil conducteur, rassembleur et dynamisant. Improvisation. Forum ouvert. Oui à l'esprit d'équipe ?
 
 ![Oui à l'esprit d'équipe!](http://i.imgur.com/PcZHSe3.jpg)
 
@@ -33,5 +33,5 @@ Sur un cas pratique de l'entreprise:  Ateliers de Scrum, stand-up meetings, spri
 Mesure des résultats : Un avancement du projet rapide et efficace.
 
 Par définition, les sessions sont courtes, denses, efficaces et ludiques.
-Alors? Vous m'appelez ou je vous appelle? Soyons agiles, enfin!
+Alors? Vous m'appelez ou je vous appelle ? Soyons agiles, enfin !
 

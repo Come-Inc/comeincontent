@@ -2,6 +2,14 @@
 Title: Animation d'ateliers
 Description: Blogs, storytelling...
 */
+**OSEZ L'HUMOUR AU COEUR DE VOTRE MANAGEMENT**
+
+**
+ INTERVENTIONS EN PUBLIC COHÉSION D’ÉQUIPES FORMATION
+  ATELIERS DE CO-DÉVELOPPEMENT THÉÂTRE FORUM
+  ATELIER D’ÉCRITURE, DE NARRATION, D’EXPRESSION ORALE
+  RÉALISATION DE VOS VIDÉOS, COACHING DEVANT LA CAMÉRA
+  WEB SERIES TUMBLR D’ENTREPRISE** 
 
 # Nos ateliers
 
@@ -14,7 +22,7 @@ En fonction de l'objectif, choisir le format adapté : Jeux de rôles, vidéo, �
 * [Tumblr d'entreprise](tumblrdentreprise1)
 * [Management agile](agilemanagement)
 	
-En français, anglais, allemand, espagnol ou italien et surtout en GLOBISH! (autres langues sur demande... heuh non en fait.. mais c'est déjà pas mal)
+En français, anglais, allemand, espagnol ou italien et surtout en GLOBISH ! (autres langues sur demande... heuh non en fait.. mais c'est déjà pas mal)
 
 
 # Avec nos experts partenaires nous construisons vos sessions Ad hoc
