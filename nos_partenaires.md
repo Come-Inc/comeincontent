@@ -1,13 +1,19 @@
 /*
 Title: Partenaires
-Description: quelle équipe!
+Description: quelle équipe !
 Author: Michèle Côme
 Template: light
 Placing: 5
 Icon: badge
 */
+##** OSEZ L'HUMOUR AU COEUR DE VOTRE MANAGEMENT
 
-**COME INC** travaille aussi en collaboration avec ses **partenaires coachs et experts** pour vous apporter un accompagnement complet, vivant et efficace.
+## Interventions publiques - Formations - Ateliers -
+##  Théâtre Forum - Blog d'entreprise - vidéos ##
+
+ ### **AVEC NOS PARTENAIRES ON ASSURE ! #**
+
+**COME INC** travaille aussi en collaboration avec des **partenaires coachs et experts** pour vous apporter un accompagnement complet, vivant et efficace.
 
 Le coaching c'est bien, c'est même une sacrée bonne méthode pour  permettre aux équipes dirigeantes de piloter leur carrière, de mieux résister au stress, de controler leurs émotions, d'être efficaces.
 
