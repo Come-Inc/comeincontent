@@ -8,13 +8,13 @@ Placing: 4
 Icon: badge
 */
 
-# ILS ONT OSÉ L'HUMOUR :
+# **ILS ONT OSÉ L'HUMOUR** :
 Et plusieurs en ont même redemandé !
 
  ![Toutes nos références](/images/references.jpg)
 
 
-# CE QU'ILS EN ONT RETENU : #
+# **CE QU'ILS EN ONT RETENU** : #
 
 « Une façon originale de mieux percevoir les différences culturelles…. En jonglant entre sketches et jeux de rôle, Michèle nous a aidés à prendre du recul et à réfléchir à des solutions concrètes pour répondre à nos problématiques » Maryse Gontier, Directrice des opérations d’HP Services
 
