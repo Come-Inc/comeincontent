@@ -11,7 +11,7 @@ Icon: badge
 # ILS ONT OSÉ L'HUMOUR :
 Et plusieurs en ont même redemandé !
 
- ![](http://i.imgur.com/QTckbcs.jpg)
+ ![](/images/references.jpg)
 
 
 # CE QU'ILS EN ONT RETENU : #
