@@ -7,7 +7,7 @@ Icon: film
 */
 # **OSEZ L'HUMOUR AU COEUR DE VOTRE MANAGEMENT**
 
-## INTERVENTIONS PUBLIQUES - SKETCH BRISE GLACE - ANIMATION DE CONFERENCES - FORMATIONS - ATELIERS 	- THÉÂTRE FORUM - BLOG D'ENTREPRISE - VIDÉOS  ##
+## INTERVENTIONS SUR SCENE - SKETCH BRISE GLACE - ANIMATION DE CONFERENCES - FORMATIONS - ATELIERS 	- THÉÂTRE FORUM - BLOG D'ENTREPRISE - VIDÉOS  ##
 
 
 # Réalisation de vos vidéos
@@ -22,4 +22,8 @@ Icon: film
 
 [http://www.paletterh.com/videos.htm](http://www.paletterh.com/videos.htm)
 En partenariat avec [http://www.curriculum-video.com/](http://www.curriculum-video.com/ "Vidéos")
-<div id="cometv">Retrouvez toutes les vidéos sur la **chaine <a href="http://www.youtube.com/user/ComeInc">Come Inc sur Youtube</a>...</div>**
+<div id="cometv">Retrouvez toutes les vidéos sur la chaine <a href="http://www.youtube.com/user/ComeInc">You Tube de Come Inc</a>...</div>
+
+<center>
+    ![logo](/themes/comeinc/img/icons.medium/film.png){.icon}
+</center>

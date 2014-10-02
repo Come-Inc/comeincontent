@@ -40,3 +40,6 @@ Et le résultat en vidéo c'est encore mieux !
 **[CURRICULUM VIDEO](http://www.curriculum-video.com/)** met à votre disposition ses vidéastes pour faire vivre vos messages
 
 ----------
+<center>
+    ![logo](/themes/comeinc/img/icons.medium/badge.png){.icon}
+</center>

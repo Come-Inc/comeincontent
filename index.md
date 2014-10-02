@@ -16,12 +16,9 @@ Author: Michèle Côme
 C'est efficace et vos équipes vont adorer ! Vous pensez comme beaucoup "ah oui on en a bien besoin!" alors qu'est-ce qui vous arrête ? Vous nous dites "Oh non pas chez nous, ça ne passera jamais...."
 Essayez, vous verrez !
 
-[Ma dernière vidéo](https://www.youtube.com/watch?v=Dq-LTRpCJs4)
+[L'actu RH vidéo](https://www.youtube.com/watch?v=Dq-LTRpCJs4)
 
-Mon dernier article autour ce cette vidéo [http://www.parlonsrh.com/qui-sengage-dans-un-recrutement-les-deux-parties-enfin/](http://http://www.parlonsrh.com/qui-sengage-dans-un-recrutement-les-deux-parties-enfin/)
-
-
-
+Notre dernier article autour ce cette vidéo [Le recrutement...aujourd'hui via Parloons RH](http://www.parlonsrh.com/qui-sengage-dans-un-recrutement-les-deux-parties-enfin/)
 
 En savoir plus sur [nos ateliers](ateliers)
 
@@ -70,3 +67,7 @@ Mais comment fait-elle? [Ecoutez ça sur Widoobiz](http://www.widoobiz.com/j-ent
 Mais comment ça lui est venu? [Regardez l'entretien vidéo de Mon Quotidien Autrement](http://www.monquotidienautrement.com/travail/rire-au-boulot-ce-nest-pas-s-rieux "Rire au boulot? Ce n'est pas sérieux!")
 
 ## Toujours avec Confiance - Respect et Bienveillance
+
+<center>
+    ![logo](/themes/comeinc/img/icons.medium/badge.png){.icon}
+</center>

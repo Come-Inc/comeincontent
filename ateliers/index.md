@@ -4,7 +4,7 @@ Description: Blogs, storytelling...
 */
 # **OSEZ L'HUMOUR AU COEUR DE VOTRE MANAGEMENT**
 
-# - FORMATIONS - ATELIERS - THÉÂTRE FORUM - STORYTELLING - BLOG D'ENTREPRISE - VIDÉOS  ##
+#FORMATIONS - ATELIERS - THÉÂTRE FORUM - STORYTELLING - BLOG D'ENTREPRISE - VIDÉOS  ##
 
 
 # Nos ateliers qui ont du sens #
@@ -15,7 +15,7 @@ En fonction de l'objectif, choisir le format adapté : Jeux de rôles, vidéo, �
 * [Atelier d’écriture, de narration, d’expression orale](storytelling)
 * [Tumblr d'entreprise](tumblrdentreprise1)
 * [Management agile](agilemanagement)
-* Vidéos, web series avec notre partenaire [ Curriculum Vidéo](https://www.youtube.com/watch?v=qv08Lz7So0s)
+* Vidéos, web series avec notre partenaire Curriculum Vidéo [https://www.youtube.com/user/ComeInc](https://www.youtube.com/user/ComeInc "Curriculum Vidéo")
 	
 
 
@@ -27,3 +27,7 @@ En fonction de l'objectif, choisir le format adapté : Jeux de rôles, vidéo, �
 [Better Human](http://www.betterhuman.fr/)  
 [Rhadamante](http://www.rhadamante.com/)  
 et toujours avec l'option vidéo de [Curriculum Video](http://www.curriculum-video.com/)
+
+<center>
+    ![logo](/themes/comeinc/img/icons.medium/badge.png){.icon}
+</center>
