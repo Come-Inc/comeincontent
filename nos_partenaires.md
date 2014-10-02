@@ -33,7 +33,7 @@ Et le résultat en vidéo c'est encore mieux !
 
 **[BETTER HUMAN Cie](http://www.betterhuman.fr/nos-interventions/)** Le **Docteur Florence BENICHOUX** et son équipe au service de la SANTÉ AU TRAVAIL, du diagnostic au plan d'action !
 
-**[EXPRESSIONS VOIX](http://www.expressions-voix.fr/)** **Christine MOUSSOT** vous coache pour maîtriser votre voix en public
+**[EXPRESSIONS VOIX](http://www.expressions-voix.fr/)** **Christine MOUSSOT**coach vocal, vous accompagne pour faire de votre voix un outil d'affirmation et optimiser l'impact de vos prises de parole en public"
 
 **[RHADAMANTE](http://www.rhadamante.com/)** une équipe de coachs confirmés
 
