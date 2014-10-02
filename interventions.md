@@ -16,7 +16,7 @@ Méthodologie : à partir d'informations internes et stratégiques et des échan
 
 **PRESENTATIONS en public** - in situ - en live - suprise - à chaud - à froid - en synthèse d'une journée - lors d'un CODIR COMEX ou séminaire
 
-![Présentation en public](/images/ateliers1.jpg)
+![Présentation en public](/images/ateliers2.jpg)
 
 En français, anglais, allemand, espagnol ou italien et surtout en GLOBISH ! (autres langues sur demande... heuh non en fait.. mais c'est déjà pas mal)
 

@@ -18,7 +18,7 @@ Essayez, vous verrez !
 
 [L'actu RH vidéo](https://www.youtube.com/watch?v=Dq-LTRpCJs4)
 
-Notre dernier article autour ce cette vidéo [Le recrutement...aujourd'hui via Parloons RH](http://www.parlonsrh.com/qui-sengage-dans-un-recrutement-les-deux-parties-enfin/)
+Notre dernier article autour ce cette vidéo [Le recrutement...aujourd'hui via Parlons RH](http://www.parlonsrh.com/qui-sengage-dans-un-recrutement-les-deux-parties-enfin/)
 
 En savoir plus sur [nos ateliers](ateliers)
 
