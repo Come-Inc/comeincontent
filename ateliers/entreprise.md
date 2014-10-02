@@ -23,4 +23,7 @@ Collaborateurs de la génération Y, Managers d’équipes jeunes, et tous les g
 *	Produire des moments clefs d’intelligence collective.
 *	Intégrer le « bien-être au travail » dans le management et teinter les valeurs managériales de sourires.
 
-**Prêts pour les nouveaux médias ?**
+### Comment ?
+Vous prenez une équipe de jeunes talents avec leurs tablettes ou ordinateurs portables, voire même leurs smartphones. En 3 heures ils vont produire un blog sur la plateforme Tumblr qui réunira des images et des textes (du contenu web ça s'appelle) qui reflétera leur projet, leur état d'esprit, sera révélateur de leur motivation et de leurs préoccupations. Le blog sera ensuite alimenté en interne et vous pourrez suivre l'évolution de l'esprit de votre équipe.
+
+**Alors ? Prêts pour les nouveaux médias ?**

@@ -9,7 +9,7 @@ Author: Michèle Côme
 # OSEZ LA CORPORATE COMEDY ! #
 
 
-## INTERVENTIONS PUBLIQUES - SKETCH BRISE GLACE - ANIMATION DE CONFERENCES - FORMATIONS - ATELIERS 	- THÉÂTRE FORUM - BLOG D'ENTREPRISE - VIDÉOS  ##
+## INTERVENTIONS SUR SCENE - SKETCH BRISE GLACE - ANIMATION DE CONFERENCES - FORMATIONS - ATELIERS 	- THÉÂTRE FORUM - BLOG D'ENTREPRISE - VIDÉOS  ##
 
 
 
@@ -17,6 +17,8 @@ C'est efficace et vos équipes vont adorer ! Vous pensez comme beaucoup "ah oui 
 Essayez, vous verrez !
 
 [Ma dernière vidéo](https://www.youtube.com/watch?v=Dq-LTRpCJs4)
+
+Mon dernier article autour ce cette vidéo [http://www.parlonsrh.com/qui-sengage-dans-un-recrutement-les-deux-parties-enfin/](http://http://www.parlonsrh.com/qui-sengage-dans-un-recrutement-les-deux-parties-enfin/)
 
 
 
@@ -42,7 +44,7 @@ En [français ](pdf/fr/comeinc-humour-incorporated.pdf), [anglais](pdf/en/comein
 - Et améliore la santé au travail et l’efficacité !
 
 
-
+Mais tout ça vous le savez très bien !
 
 ## Celui qui sait rire de lui-même n’a pas fini de progresser…
 

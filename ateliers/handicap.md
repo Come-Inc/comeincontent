@@ -10,6 +10,10 @@ De multiples axes de développement de moments humoristiques en ateliers interac
 *	Nous pouvons faire germer des actions collaboratives nouvelles et durables.
 *	Posture ou engagement ?
 *	Cherchons le clown qui est en nous.Passer de la différence et de l’indifférence à l’intérêt et à l’action.
+
+
+Le théâtre Forum, la vidéo, le storytelling sont des formats adaptés à ces sujets délicats
+
 ![Non non merci j'ai déjà tout ce qu'il me faut](http://i.imgur.com/jW3mjYV.gif)
 
-**prêts à tenter ?**
+**Etes-vous prêts à tenter ?**

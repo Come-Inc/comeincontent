@@ -15,7 +15,7 @@ Mais encore..??
 *	Apprendre à s’adapter au changement
 *	Par itération, réaliser les objectifs en restant toujours en ligne avec les attentes des utilisateurs finaux.
 
-LE PLUS DE COME INC  ##: utilisation de l’humour comme fil conducteur, rassembleur et dynamisant. Improvisation. Forum ouvert. Oui à l'esprit d'équipe ?
+**Le "Plus" de COMEINC**: utilisation de l’humour comme fil conducteur, rassembleur et dynamisant. Improvisation. Forum ouvert. Oui à l'esprit d'équipe ?
 
 ![Oui à l'esprit d'équipe!](http://i.imgur.com/PcZHSe3.jpg)
 
@@ -28,7 +28,7 @@ EFFICACITE - MOTIVATION - BIENVEILLANCE - TRANSPARENCE - INSPECTION - ADAPTATION
 Matthieu GROSSELIN, Head of mobile product, VIADEO
 
 
-**Comment **: Présenter et sensibiliser à la méthode largement approuvée par l’industrie du logiciel à tous les secteurs.
+**Comment**: Présenter et sensibiliser à la méthode largement approuvée par l’industrie du logiciel à tous les secteurs.
 Sur un cas pratique de l'entreprise:  Ateliers de Scrum, stand-up meetings, sprint, user stories, planning poker, retrospective.
 Mesure des résultats : Un avancement du projet rapide et efficace.
 

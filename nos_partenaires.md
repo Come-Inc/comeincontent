@@ -9,10 +9,6 @@ Icon: badge
 		
 # **OSEZ L'HUMOUR AU COEUR DE VOTRE MANAGEMENT**
 
-## INTERVENTIONS PUBLIQUES - SKETCH BRISE GLACE - ANIMATION DE CONFERENCES - FORMATIONS - ATELIERS 	- THÉÂTRE FORUM - BLOG D'ENTREPRISE - VIDÉOS  ##
-
-
- 
 **AVEC NOS PARTENAIRES ON ASSURE !** 
 
 **COME INC** travaille aussi en collaboration avec des **partenaires coachs et experts** pour vous apporter un accompagnement complet, vivant et efficace.
