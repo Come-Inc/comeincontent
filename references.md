@@ -1,7 +1,7 @@
 /*
 Title: Références COME INC
 Ils ont fait confiance à l'humour !
-Description: Nos dernières références
+Description: nos dernières références
 Author: Michèle Côme
 Template: light
 Placing: 4

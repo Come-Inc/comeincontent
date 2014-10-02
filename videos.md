@@ -1,6 +1,6 @@
 /*
 Title: Vidéos
-Description: Vos vidéos et notre Chaine youtube
+Description: vos vidéos et notre Chaine youtube
 Author: Michèle Côme
 Placing: 3
 Icon: film

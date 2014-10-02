@@ -1,6 +1,6 @@
 /*
 Title: Ateliers - Formations
-Description: Du sens et du fun
+Description: du sens et du fun
 Author: Michèle Côme
 Template: lighter
 Placing: 2
