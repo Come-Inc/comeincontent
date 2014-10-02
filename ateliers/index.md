@@ -7,13 +7,13 @@ Description: Blogs, storytelling...
 #FORMATIONS - ATELIERS - THÉÂTRE FORUM - STORYTELLING - BLOG D'ENTREPRISE - VIDÉOS  ##
 
 
-# Nos ateliers qui ont du sens #
+# Nos ateliers ont du sens #
 
 En fonction de l'objectif, choisir le format adapté : Jeux de rôles, vidéo, écriture, blog, exercices d'expression, cas pratiques et animer le groupe en "acteurs" de leur avenir.
 
-* [Faisons sourire le handicap !](handicap1)
+* [Faisons sourire le handicap !](handicap)
 * [Atelier d’écriture, de narration, d’expression orale](storytelling)
-* [Tumblr d'entreprise](tumblrdentreprise1)
+* [Tumblr d'entreprise](tumblrdentreprise)
 * [Management agile](agilemanagement)
 * Vidéos, web series avec notre partenaire Curriculum Vidéo [https://www.youtube.com/user/ComeInc](https://www.youtube.com/user/ComeInc "Curriculum Vidéo")
 	
