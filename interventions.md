@@ -59,3 +59,7 @@ Les sujets RH les plus actuels sont traités avec tous les ingrédients les plus
 
 
 ##L'humour ne connaît pas la crise##
+
+<center>
+    ![logo](/themes/comeinc/img/icons.medium/clown.png){.icon}
+</center>
