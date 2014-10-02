@@ -44,6 +44,7 @@ Les sujets RH les plus actuels sont traités avec tous les ingrédients les plus
 > - Travailler ensemble sur plusieurs sites
 > - Process de simplification
 > - Burn-Out
+> - Risques psychosociaux
 > - Déménagement
 > - Collaboration avec des équipes outsourcées
 > - Utilisation de plateformes collaboratives

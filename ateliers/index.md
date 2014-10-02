@@ -17,6 +17,8 @@ En fonction de l'objectif, choisir le format adapté : Jeux de rôles, vidéo, �
 * [Management agile](agilemanagement)
 * Vidéos, web series avec notre partenaire Curriculum Vidéo [https://www.youtube.com/user/ComeInc](https://www.youtube.com/user/ComeInc "Curriculum Vidéo")
 	
+## **Pour qui?** ##
+Les équipes dirigeantes, les managers, les back offices, mais pour tous les collaborateurs voyons ! En France et à l'étranger.
 
 
 # Avec nos experts partenaires nous construisons vos sessions Ad hoc
