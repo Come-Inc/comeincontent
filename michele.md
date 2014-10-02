@@ -6,7 +6,7 @@ Placing: 1
 Icon: clown
 */
 
-# Michèle Côme 
+# **Michèle Côme** 
 ## plus de 30 ans au coeur des entreprises et plus de 10 ans de scène ##
 
 Déjà petite, je rêvais d’être sur scène… et de faire rire ! Toutes les occasions ont été bonnes pour me faire remarquer, me déguiser, devenir l’assistante du magicien lors des goûters d’anniversaire !

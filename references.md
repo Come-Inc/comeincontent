@@ -8,7 +8,7 @@ Placing: 4
 Icon: badge
 */
 
-# **ILS ONT OSÉ L'HUMOUR** :
+#**ILS ONT OSÉ L'HUMOUR** :
 Et plusieurs en ont même redemandé !
 
  ![Toutes nos références](/images/references.jpg)
