@@ -35,7 +35,7 @@ Et le résultat en vidéo c'est encore mieux !
 
 **[EXPRESSIONS VOIX](http://www.expressions-voix.fr/)** **Christine MOUSSOT** coach vocal, vous accompagne "pour faire de votre voix un outil d'affirmation et optimiser l'impact de vos prises de parole en public"
 
-**[RHADAMANTE](http://www.rhadamante.com/)** une équipe de coachs confirmés
+**[RHadamante](http://www.rhadamante.com/)** Pascale Buchet et son équipe de coachs et de formateurs confirmés au service de vos Ressources Humaines
 
 **[CURRICULUM VIDEO](http://www.curriculum-video.com/)** met à votre disposition ses vidéastes pour faire vivre vos messages
 

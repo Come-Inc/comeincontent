@@ -27,7 +27,7 @@ Les équipes dirigeantes, les managers, les back offices, mais pour tous les col
 [Isabelle DEPREZ Speaker et Coach](http://www.isabelledeprez.fr/)  
 [Expressions-Voix](http://www.expressions-voix.fr/)  
 [Better Human](http://www.betterhuman.fr/)  
-[Rhadamante](http://www.rhadamante.com/)  
+[RHadamante](http://www.rhadamante.com/)  
 et toujours avec l'option vidéo de [Curriculum Video](http://www.curriculum-video.com/)
 
 <center>
