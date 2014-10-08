@@ -15,7 +15,7 @@ En fonction de l'objectif, choisir le format adapté : Jeux de rôles, vidéo, �
 * [Atelier d’écriture, de narration, d’expression orale](ateliers/storytelling)
 * [Tumblr d'entreprise](ateliers/entreprise)
 * [Management agile](ateliers/agilemanagement)
-* Vidéos, web series avec notre partenaire Curriculum Vidéo [https://www.youtube.com/channel/UCjRYAlKJoeu0XJVdnBs-3tA](https://www.youtube.com/channel/UCjRYAlKJoeu0XJVdnBs-3tA)
+* [Vidéos, web series](https://www.youtube.com/channel/UCjRYAlKJoeu0XJVdnBs-3tA) avec notre partenaire Curriculum Vidéo
 	
 ## **Pour qui?** ##
 Les équipes dirigeantes, les managers, les back offices, mais pour tous les collaborateurs voyons ! En France et à l'étranger.
