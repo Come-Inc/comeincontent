@@ -11,10 +11,10 @@ Description: Blogs, storytelling...
 
 En fonction de l'objectif, choisir le format adapté : Jeux de rôles, vidéo, écriture, blog, exercices d'expression, cas pratiques et animer le groupe en "acteurs" de leur avenir.
 
-* [Faisons sourire le handicap !](handicap)
-* [Atelier d’écriture, de narration, d’expression orale](storytelling)
-* [Tumblr d'entreprise](tumblrdentreprise)
-* [Management agile](agilemanagement)
+* [Faisons sourire le handicap !](./handicap)
+* [Atelier d’écriture, de narration, d’expression orale](./storytelling)
+* [Tumblr d'entreprise](./entreprise)
+* [Management agile](./agilemanagement)
 * Vidéos, web series avec notre partenaire Curriculum Vidéo [https://www.youtube.com/channel/UCjRYAlKJoeu0XJVdnBs-3tA](https://www.youtube.com/channel/UCjRYAlKJoeu0XJVdnBs-3tA)
 	
 ## **Pour qui?** ##
