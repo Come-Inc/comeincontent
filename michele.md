@@ -7,7 +7,7 @@ Icon: clown
 */
 
 # **Michèle Côme** 
-## plus de 30 ans au coeur des entreprises et plus de 10 ans de scène ##
+## Plus de 30 ans au coeur des entreprises et plus de 10 ans de scène ##
 
 Déjà petite, je rêvais d’être sur scène… et de faire rire ! Toutes les occasions ont été bonnes pour me faire remarquer, me déguiser, devenir l’assistante du magicien lors des goûters d’anniversaire !
 
@@ -20,6 +20,10 @@ Les comités de direction sont alors mon terrain de test de gags et récits humo
 Je voyage beaucoup en Europe, les projets internationaux stratégiques sont mon quotidien, convaincre 13 filiales de s'aligner est mon défi, et mon multilinguisme m'aide à gérer les différences culturelles.
 
 À la convergence de ces deux vies, COME INC arrive à point nommé pour vous permettre d’atteindre et dépasser vos objectifs de réussite tout en passant un très bon moment… ensemble !
+
+## C'est pas moi qui le dit mais les cahiers du DRH
+
+[Portrait charmant pour un bel outil](pdf/fr/CDRH-214.pdf)
 
 <center>
     ![logo](/themes/comeinc/img/icons.medium/badge.png){.icon}
